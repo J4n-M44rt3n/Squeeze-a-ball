@@ -1,9 +1,8 @@
-# **Documentation // Project Title**
+# **Documentation // Pain Squeezer**
 
 ## Introduction
 
-Proper documentation is an often forgotten, but crucial part of the design process. People need to know the steps you have taken in order to get involved. Whether it is for a potential contributor, user, or just an interested reader, any relevant steps you have taken can be paramount to their understanding of your product.
-
+We designed the device described in this document to improve pain measurement in a clinical setting by making pain measurement less intrusive and patient-initiated, and capable of real-time monitoring. 
 ​
 
 Imagine someone whom you've never met before. What would that person need to know before being able to get involved? This step by step guide will help you answer that question.
