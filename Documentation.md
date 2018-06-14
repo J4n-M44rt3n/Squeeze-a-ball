@@ -2,12 +2,10 @@
 
 ## Introduction
 
-We designed the device described in this document to improve pain measurement in a clinical setting by making pain measurement less intrusive and patient-initiated, and capable of real-time monitoring. This device can be used to improve clinical reaction to pain, to improve scientific understanding of pain in a clinical setting, and to provide biofeedback-based distraction for the patient.
+We designed the device described in this document to improve pain measurement in a clinical setting by making pain measurement less intrusive, patient-initiated, and capable of real-time monitoring. This device can be used to improve clinical reaction to pain, to improve scientific understanding of pain in a clinical setting, and to provide biofeedback-based distraction for the patient.
 
-Pain is a highly subjective experience which correlates poorly with bodily harm and physiological measurements such as heart rate variability. The experience of pain can also be modulated by distraction, by the state of consciousness someone is in, or by the presence of important social actors such as family or medical personnel.
-​
+Pain is a highly subjective experience which correlates poorly with bodily harm and physiological measurements such as heart rate variability. The experience of pain can be modulated by distraction, by the state of consciousness someone is in, or by the presence of important social actors such as family or medical personnel. This makes it notoriously hard to measure pain, and the most widely used method to do this is to ask patients to rate their pain, either on a scale from one to ten, or as a mark on a continuous, horizontal bar.
 
-Imagine someone whom you've never met before. What would that person need to know before being able to get involved? This step by step guide will help you answer that question.
 
 ​
 
