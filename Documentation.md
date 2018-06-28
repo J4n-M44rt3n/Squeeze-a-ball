@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Squeeze-a-Ball aims to improve pain measurement in a clinical setting. Compared to current methods, pain measurement needs to be less intrusive, patient-initiated, and capable of real-time monitoring. If successfull, Squeeze-a-ball can be used to improve clinical reaction to pain, to improve scientific understanding of pain in a clinical setting, and to provide biofeedback-based distraction for the patient.
+Squeeze-a-Ball aims to improve pain measurement in a clinical setting. Compared to current methods, pain measurement needs to be less intrusive, patient-initiated, and capable of real-time monitoring. If successfull, Squeeze-a-ball can be used to improve clinical reaction to pain, to improve the scientific understanding of pain, and to provide biofeedback-based distraction for the patient.
 
 Pain is a highly subjective experience which correlates poorly to trauma, pathological changes of the body, and physiological measures such as heart rate variability. Pain can be modulated by distraction, by someone's level of awareness, or by social factors such as the presence of family or medical personnel. This makes it notoriously hard to measure pain, and the most widely used method is to ask patients to rate their pain, either on a scale from one to ten, or as a mark on a continuous, horizontal bar. In a clinical environment, typically a nurse will ask a patient three times a day to rate their pain in this way. This is a poor indicator for the fluctuations in pain patients may experience, which makes it hard to provide adequate and timely treatment, and also limits our understanding of the progression of pain in patients. 
 
