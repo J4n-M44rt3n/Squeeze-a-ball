@@ -1,4 +1,4 @@
-# **Documentation // Pain Squeezer**
+# **Documentation // Squeeze-a-Ball**
 
 ## Introduction
 
