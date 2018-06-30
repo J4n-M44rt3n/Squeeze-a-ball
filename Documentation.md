@@ -13,9 +13,8 @@ We propose to hijack a naturally occuring, biological reaction to stress for the
 
 ## License
 
-Hardware and software developed for this project is covered by the Creative Commons Attribution-ShareAlike 4.0 International License. Third party components used are covered by their respective licenses. This revers to
+Hardware and software developed in this project are covered by the Creative Commons Attribution-ShareAlike 4.0 International License. We found inspiration for knitted stretch sensors at [Kobakant](http://www.kobakant.at/DIY/?p=3175), released under the Free Cultural Works definition [Free Cultural Works definition](https://freedomdefined.org/Definition).
 
-​
 
 ## Product Category
 
