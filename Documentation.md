@@ -23,28 +23,25 @@ Hardware and software developed in this project are published under the [Creativ
 - SELF CARE
 
 
-## The project in one sentence
+## The project in two sentences
 
-Squeeze-a-Ball looks like a knitted anti-stress ball hooked up to a tablet. It is a device that measures pain by how forceful patients squeeze it. 
+Squeeze-a-Ball looks like a knitted anti-stress ball hooked up to a tablet computer. It is a device that measures pain by how forceful patients squeeze it.
 
 
 ## What is it?
 
-Provide a longer description of your product and what it is or does. This information can be used as a longer introduction for people that have been hooked by the photo or description of your project.
+Squeeze-a-Ball aims to improve pain measurement in a clinical setting. Compared to current methods, pain measurement needs to be less intrusive, patient-initiated, and capable of real-time monitoring. Patients can squeeze the ball whenever they experience pain, and the amount of squeeze indicates their pain level. This force will be recorded and visualized in a tablet application, both real-time and as a pain diary. Building on this, Squeeze-a-ball can be used to improve the clinical reaction to pain, improve the scientific understanding of pain, and provide biofeedback-based distraction for the patient.
 
-​
 
 ## Why did you make it?
 
 Here you can specify the reason the project started and exists. The more the project is related to the need or challenge of a problem owner or healthcare professional, the higher the chances of it being or becoming a relevant solution.
 
-​
 
 ## What does it do?
 
 This space can be used to further specify what your product really does. Feel free to go into technical details.
 
-​
 
 ## Research
 
@@ -62,7 +59,6 @@ Describe your first step here.
 
 etc...
 
-​
 
 ## Credits
 
@@ -70,7 +66,6 @@ Who has been working on this? What are their expertises?
 
 For example: This document has been designed and made in 2018 by Jurre Ongering with help from Joost Kaan.
 
-​
 
 **Note for the MadeforYou projectteam:**
 
