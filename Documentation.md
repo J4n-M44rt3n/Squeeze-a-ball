@@ -13,31 +13,15 @@ We propose to hijack a naturally occuring, biological reaction to stress for the
 
 ## License
 
-Hardware and software developed in this project are covered by the Creative Commons Attribution-ShareAlike 4.0 International License. We found inspiration for knitted stretch sensors at [Kobakant](http://www.kobakant.at/DIY/?p=3175), released under the Free Cultural Works definition [Free Cultural Works definition](https://freedomdefined.org/Definition).
+Hardware and software developed in this project are covered by the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). We found inspiration for knitted stretch sensors at [Kobakant](http://www.kobakant.at/DIY/?p=3175), released under the Free Cultural Works definition [Free Cultural Works definition](https://freedomdefined.org/Definition).
 
 
 ## Product Category
 
-As a general framework for specifying the life areas that your solution relates to, we look at tabel 2 on page 13 of the [International Classification of Functioning](http://www.who-fic.nl/dsresource?objectid=rivmp:230329&type=org):
-
 - LEARNING AND APPLYING KNOWLEDGE
-- GENERAL TASKS AND DEMANDS
 - COMMUNICATION
-- MOBILITY
 - SELF CARE
-- DOMESTIC LIFE
-- INTERPERSONAL INTERACTIONS AND RELATIONSHIPS
-- MAJOR LIFE AREAS
-- COMMUNITY, SOCIAL AND CIVIC LIFE
-- ANY OTHER ACTIVITY AND PARTICIPATION
 
-In which area does your solution enable activity or participation for people with restrictions?
-
-​
-
-Useful definitions: Activity is the execution of a task or action by an individual. Participation is involvement in a life situation. Activity limitations are difficulties an individual may have in executing activities. Participation restrictions are problems an individual may have in involvement in life situations.
-
-​
 
 ## The project in one sentence
 
