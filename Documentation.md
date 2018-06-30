@@ -8,9 +8,9 @@ Measuring pain is notoriously hard. Pain is a highly subjective experience which
 
 In a clinical environment, typically a nurse will ask a patient three times a day to rate their pain in this way. This is a poor indicator for the fluctuations in pain patients may experience, which makes it hard to provide adequate and timely treatment, and also limits our understanding of the progression of pain in patients. Measuring pain in this way requires the patient to consciously focus on their pain, in opposition to any distraction strategy the patient may be employing.
 
-We propose to hijack a naturally occuring, biological reaction to stress for the purpose of measuring pain. When a potentially adverse and urgent situation is recognized by an animal, the *acute stress response* prepares the animal physiologically to take appropriate action, such as fighting or fleeing. We experience this acute stress response as well, for instance when we need to subject to dental care. Fighting or fleeing is often not an appropriate reaction in such circumstances, and instead we tense up. We often transfer this actute stress response to different behavior, such as squeezing the hand of your mother, or squeezing an anti-stress ball.
+We propose to hijack a naturally occuring, biological reaction to stress for the purpose of measuring pain. When a potentially adverse and urgent situation is recognized by an animal, the *acute stress response* prepares the animal physiologically to take appropriate action, such as fighting or fleeing. We experience this acute stress response as well, for instance when we need to subject to dental care. Fighting or fleeing is often not an appropriate reaction in such circumstances, and instead we tense up. We can transfer this actute stress response to different behavior, such as squeezing the hand of your mother, or squeezing an anti-stress ball.
 
-Squeeze-a-Ball is a pressure sensor wrapped in a anti-stress ball hooked up to a tablet computer.  
+Squeeze-a-Ball is a pressure sensor wrapped in a anti-stress ball hooked up to a tablet computer. Patients can squeeze the ball whenever they experience pain, and the amount of squeeze indicates their pain level. 
 
 
 ## License
