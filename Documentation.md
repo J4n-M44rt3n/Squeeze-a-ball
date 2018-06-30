@@ -13,7 +13,7 @@ We propose to hijack a naturally occuring, biological reaction to stress for the
 
 ## License
 
-Hardware and software developed in this project are covered by the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). We found inspiration for knitted stretch sensors at [Kobakant](http://www.kobakant.at/DIY/?p=3175), released under the Free Cultural Works definition [Free Cultural Works definition](https://freedomdefined.org/Definition).
+Hardware and software developed in this project are published under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/). We found inspiration for knitted stretch sensors at [Kobakant](http://www.kobakant.at/DIY/?p=3175), released under the [Free Cultural Works definition](https://freedomdefined.org/Definition).
 
 
 ## Product Category
@@ -25,9 +25,8 @@ Hardware and software developed in this project are covered by the [Creative Com
 
 ## The project in one sentence
 
-Please specify what your product is and what it does. This information can be used as short introduction to your project.
+Squeeze-a-Ball looks like a knitted anti-stress ball hooked up to a tablet. It is a device that measures pain by how forceful patients squeeze it. 
 
-​
 
 ## What is it?
 
