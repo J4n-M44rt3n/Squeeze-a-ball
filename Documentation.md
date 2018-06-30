@@ -6,7 +6,9 @@ Squeeze-a-Ball aims to improve pain measurement in a clinical setting. Compared 
 
 Measuring pain is notoriously hard. Pain is a highly subjective experience which correlates poorly to trauma, pathological changes of the body, and physiological measures such as heart rate variability. Also, pain can be modulated by distraction, level of awareness, or social factors such as the presence of family or medical personnel. The most widely used method to measure pain is to ask patients to rate their pain, either on a scale from one to ten, or as a mark on a continuous, horizontal bar. 
 
-In a clinical environment, typically a nurse will ask a patient three times a day to rate their pain in this way. This is a poor indicator for the fluctuations in pain patients may experience, which makes it hard to provide adequate and timely treatment, and also limits our understanding of the progression of pain in patients. 
+In a clinical environment, typically a nurse will ask a patient three times a day to rate their pain in this way. This is a poor indicator for the fluctuations in pain patients may experience, which makes it hard to provide adequate and timely treatment, and also limits our understanding of the progression of pain in patients. This method of measuring pain requires the patient to consciously focus on their pain, in opposition to any distraction strategy the patient may be employing.
+
+
 
 
 ## License
