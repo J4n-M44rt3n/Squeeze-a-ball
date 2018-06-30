@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Squeeze-a-Ball aims to improve pain measurement in a clinical setting. Compared to current methods, pain measurement needs to be less intrusive, patient-initiated, and capable of real-time monitoring. Squeeze-a-Ball is a pressure sensor wrapped in a anti-stress ball hooked up to a tablet computer. Patients can squeeze the ball whenever they experience pain, and the amount of squeeze indicates their pain level. If successfull, Squeeze-a-ball can be used to improve the clinical reaction to pain, improve the scientific understanding of pain, and provide biofeedback-based distraction for the patient.
+Squeeze-a-Ball aims to improve pain measurement in a clinical setting. Compared to current methods, pain measurement needs to be less intrusive, patient-initiated, and capable of real-time monitoring. Squeeze-a-Ball is a pressure sensor wrapped in a anti-stress ball hooked up to a tablet computer. Patients can squeeze the ball whenever they experience pain, and the amount of squeeze indicates their pain level. Real-time and recorded pressure levels are visualized on the tablet computer. If successfull, Squeeze-a-ball can be used to improve the clinical reaction to pain, improve the scientific understanding of pain, and provide biofeedback-based distraction for the patient.
 
 Measuring pain is notoriously hard. Pain is a highly subjective experience which correlates poorly to trauma, pathological changes of the body, and physiological measures such as heart rate variability. Also, pain can be modulated by distraction, level of awareness, or social factors such as the presence of family or medical personnel. The most widely used method to measure pain is to ask patients to rate their pain, either on a scale from one to ten, or as a mark on a continuous, horizontal bar. 
 
@@ -35,7 +35,9 @@ Squeeze-a-Ball aims to improve pain measurement in a clinical setting. Compared 
 
 ## Why did you make it?
 
-Here you can specify the reason the project started and exists. The more the project is related to the need or challenge of a problem owner or healthcare professional, the higher the chances of it being or becoming a relevant solution.
+Measuring pain is notoriously hard. Pain is a highly subjective experience which correlates poorly to trauma, pathological changes of the body, and physiological measures such as heart rate variability. Also, pain can be modulated by distraction, level of awareness, or social factors such as the presence of family or medical personnel. The most widely used method to measure pain is to ask patients to rate their pain, either on a scale from one to ten, or as a mark on a continuous, horizontal bar. 
+
+In a clinical environment, typically a nurse will ask a patient three times a day to rate their pain in this way. This is a poor indicator for the fluctuations in pain patients may experience, which makes it hard to provide adequate and timely treatment, and also limits our understanding of the progression of pain in patients. Measuring pain in this way requires the patient to consciously focus on their pain, in opposition to any distraction strategy the patient may be employing. We feel it is urgent and necessarry to develop a way to measure pain that improves on the current situation.
 
 
 ## What does it do?
