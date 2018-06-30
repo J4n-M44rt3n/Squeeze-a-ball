@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Squeeze-a-Ball aims to improve pain measurement in a clinical setting. Compared to current methods, pain measurement needs to be less intrusive, patient-initiated, and capable of real-time monitoring. If successfull, Squeeze-a-ball can be used to improve the clinical reaction to pain, improve the scientific understanding of pain, and provide biofeedback-based distraction for the patient.
+Squeeze-a-Ball aims to improve pain measurement in a clinical setting. Compared to current methods, pain measurement needs to be less intrusive, patient-initiated, and capable of real-time monitoring. Squeeze-a-Ball is a pressure sensor wrapped in a anti-stress ball hooked up to a tablet computer. Patients can squeeze the ball whenever they experience pain, and the amount of squeeze indicates their pain level. If successfull, Squeeze-a-ball can be used to improve the clinical reaction to pain, improve the scientific understanding of pain, and provide biofeedback-based distraction for the patient.
 
 Measuring pain is notoriously hard. Pain is a highly subjective experience which correlates poorly to trauma, pathological changes of the body, and physiological measures such as heart rate variability. Also, pain can be modulated by distraction, level of awareness, or social factors such as the presence of family or medical personnel. The most widely used method to measure pain is to ask patients to rate their pain, either on a scale from one to ten, or as a mark on a continuous, horizontal bar. 
 
@@ -10,12 +10,10 @@ In a clinical environment, typically a nurse will ask a patient three times a da
 
 We propose to hijack a naturally occuring, biological reaction to stress for the purpose of measuring pain. When a potentially adverse and urgent situation is recognized by an animal, the *acute stress response* prepares the animal physiologically to take appropriate action, such as fighting or fleeing. We experience this acute stress response as well, for instance when we need to subject to dental care. Fighting or fleeing is often not an appropriate reaction in such circumstances, and instead we tense up. We can transfer this actute stress response to different behavior, such as squeezing the hand of your mother, or squeezing an anti-stress ball.
 
-Squeeze-a-Ball is a pressure sensor wrapped in a anti-stress ball hooked up to a tablet computer. Patients can squeeze the ball whenever they experience pain, and the amount of squeeze indicates their pain level. 
-
 
 ## License
 
-First of all, please specify a license under which you allow sharing of your project. You can use [this neat tool](https://creativecommons.org/choose/) to find a license that works for you.
+Hardware and software developed for this project is covered by the Creative Commons Attribution-ShareAlike 4.0 International License. Third party components used are covered by their respective licenses. This revers to
 
 ​
 
