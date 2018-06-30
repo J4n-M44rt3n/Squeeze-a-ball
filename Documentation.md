@@ -62,13 +62,13 @@ etc...
 
 ## Credits
 
-In no particular order:
-Mireia Parets for graphic design and interface design
-Bugra Yildiz for software development
-Paulien Melis for knitting the actual sensors
-Winston Mendeszoon for sensor research
-Anna Pelgrim for interface design and user scenarios
-Jurre Ongering for coming up with the Name
-Emma Pareschi for help with electronics and sensors
+In no particular order:<BR>
+Mireia Parets for graphic design and interface design<BR>
+Bugra Yildiz for software development<BR>
+Paulien Melis for knitting the actual sensors<BR>
+Winston Mendeszoon for sensor research<BR>
+Anna Pelgrim for interface design and user scenarios<BR>
+Jurre Ongering for coming up with the Name<BR>
+Emma Pareschi for help with electronics and sensors<BR>
 Jan-Maarten Luursema for owning the problem
 
