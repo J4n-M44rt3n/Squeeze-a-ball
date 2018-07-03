@@ -42,24 +42,12 @@ In a clinical environment, typically a nurse will ask a patient three times a da
 
 ## What does it do?
 
-This space can be used to further specify what your product really does. Feel free to go into technical details.
+This is where we will put the BOM, instructions for making a Squeeze-a-ball, and any other files and links necessary or helpful
 
 
 ## Research
 
-In this section, you describe how you worked towards the final product. What steps did you take in researching and developing it. The descriptions of all your brilliant failures and key decisions will emphasize the quality of your work. It will also make it easier for others to understand your product.
-
-### **Step 1:**
-
-Describe your first step here.
-
-### **Step 2:**
-
-Describe your first step here.
-
-### **Step 3:**
-
-etc...
+Here we will describe what happened when we took the prototype into a clinical environment
 
 
 ## Credits
