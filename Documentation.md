@@ -12,7 +12,7 @@ Our proposed solution for measuring pain, the Squeeze-a-ball, is a pressure sens
 
 ## License
 
-Hardware and software developed in this project are published under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/). We found inspiration for knitted stretch sensors at [Kobakant](http://www.kobakant.at/DIY/?p=3175), released under the [Free Cultural Works definition](https://freedomdefined.org/Definition).
+Hardware and software developed in this project are published under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/). We found inspiration for knitted stretch sensors at [Kobakant](http://www.kobakant.at/DIY/?p=3175), released under the [Free Cultural Works definition](https://freedomdefined.org/Definition).<BR>
 
 
 ## Product Category
