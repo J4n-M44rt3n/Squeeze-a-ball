@@ -7,6 +7,7 @@ Measuring pain is notoriously hard. In order to be able to anticipate pain and o
 We propose to hijack a naturally occuring, biological reaction to stress for the purpose of measuring pain. When a potentially adverse and urgent situation is recognized by an animal, the *acute stress response* prepares the animal physiologically to take appropriate action, such as fighting or fleeing. People experience this acute stress response as well, for instance when we need to subject to dental care. Fighting or fleeing is often not an appropriate reaction in such circumstances, and instead we tense up. We can transfer this acute stress response to different behavior, such as squeezing the hand of the one you are with, or squeezing an anti-stress ball.
 
 Our proposed solution for measuring pain, the Squeeze-a-ball, is a pressure sensor wrapped in a anti-stress ball hooked up to a tablet computer. People can squeeze the ball whenever they experience pain, and the amount of squeeze indicates their pain level. 
+<img src="https://github.com/J4n-M44rt3n/pain-squeezer/blob/master/knitted-sensor.JPG" width="250" height="313" /> 
 
 
 ## License
