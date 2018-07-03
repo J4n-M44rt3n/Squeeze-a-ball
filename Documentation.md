@@ -64,7 +64,7 @@ etc...
 
 ## Credits
 
-In no particular order, the following wonderful people helped by their lively discussions and specific contributions:<BR><BR>
+In no particular order, the following great people helped Squeeze-a-ball along by their lively discussions and specific contributions:<BR><BR>
 Mireia Parets worked on the graphic design and interface design<BR>
 Bugra Yildiz worked on the software<BR>
 Paulien Melis knitted the actual sensors<BR>
@@ -72,5 +72,6 @@ Winston Mendeszoon researched sensors<BR>
 Anna Pelgrim worked on interface design and user scenarios<BR>
 Jurre Ongering came up with the Name<BR>
 Emma Pareschi helped with electronics and sensors<BR>
-Jan-Maarten Luursema owns the problem
-
+Jan-Maarten Luursema owns the problem<BR><BR>
+Also special thanks to the Waag for making this possible!
+  
