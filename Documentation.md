@@ -40,12 +40,12 @@ Measuring pain is notoriously hard. Pain is a highly subjective experience which
 In a clinical environment, typically a nurse will ask a patient three times a day to rate their pain in this way. This is a poor indicator for the fluctuations in pain patients may experience, which makes it hard to provide adequate and timely treatment, and also limits our understanding of the progression of pain in patients. Measuring pain using rating scales requires the patient to consciously focus on their pain, which cancels any distraction strategy the patient may be employing. We feel it is urgent and necessary to develop a way to measure pain that improves on the current situation.
 
 
-## What does it do?
+## How do you make one?
 
 This is where we will put the BOM, instructions for making a Squeeze-a-ball, and any other files and links necessary or helpful
 
 
-## Research
+## Research and experiences
 
 Here we will describe what happened when we took the prototype into a clinical environment
 
