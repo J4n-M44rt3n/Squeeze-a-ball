@@ -60,6 +60,7 @@ Winston Mendeszoon researched sensors<BR>
 Anna Pelgrim worked on interface design and user scenarios<BR>
 Jurre Ongering came up with the Name<BR>
 Emma Pareschi helped with electronics and sensors<BR>
-Jan-Maarten Luursema owns the problem<BR><BR>
+Jan-Maarten Luursema owns the problem<BR>
+Christine van den Horn povided helpful suggestions<BR><BR>
 Also special thanks to the Waag for making this possible!
   
