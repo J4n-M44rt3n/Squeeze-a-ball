@@ -4,7 +4,7 @@
 
 Measuring pain is notoriously hard. In order to be able to anticipate pain and optimize the clinical reaction to pain, it is essential to improve on the current standard methods for pain measurement.
 
-We propose to hijack a naturally occuring, biological reaction to stress for the purpose of measuring pain. When a potentially adverse and urgent situation is recognized by an animal, the *acute stress response* prepares the animal physiologically to take appropriate action, such as fighting or fleeing. We experience this acute stress response as well, for instance when we need to subject to dental care. Fighting or fleeing is often not an appropriate reaction in such circumstances, and instead we tense up. We can transfer this actute stress response to different behavior, such as squeezing the hand of your mother, or squeezing an anti-stress ball.
+We propose to hijack a naturally occuring, biological reaction to stress for the purpose of measuring pain. When a potentially adverse and urgent situation is recognized by an animal, the *acute stress response* prepares the animal physiologically to take appropriate action, such as fighting or fleeing. People experience this acute stress response as well, for instance when we need to subject to dental care. Fighting or fleeing is often not an appropriate reaction in such circumstances, and instead we tense up. We can transfer this acute stress response to different behavior, such as squeezing the hand of the one you are with, or squeezing an anti-stress ball.
 
 Our proposed solution for measuring pain, the Squeeze-a-ball, is a pressure sensor wrapped in a anti-stress ball hooked up to a tablet computer. People can squeeze the ball whenever they experience pain, and the amount of squeeze indicates their pain level. 
 
@@ -33,9 +33,9 @@ Squeeze-a-ball aims to improve pain measurement in a clinical setting. Compared 
 
 ## Why did you make it?
 
-Measuring pain is notoriously hard. Pain is a highly subjective experience which correlates poorly to trauma, pathological changes of the body, and physiological measures such as heart rate variability. Also, pain can be modulated by distraction, level of awareness, or social factors such as the presence of family or medical personnel. The most widely used method to measure pain is to ask patients to rate their pain, either on a scale from one to ten, or as a mark on a continuous, horizontal bar. 
+Measuring pain is notoriously hard. Pain is a highly subjective experience which correlates poorly to trauma, pathological changes of the body, and physiological measures such as heart rate variability. On top of that, pain can be modulated by distraction, level of awareness, or social factors such as the presence of family or medical personnel. The most widely used method to measure pain is to ask patients to rate their pain, either on a scale from one to ten, or as a mark on a continuous, horizontal bar. 
 
-In a clinical environment, typically a nurse will ask a patient three times a day to rate their pain in this way. This is a poor indicator for the fluctuations in pain patients may experience, which makes it hard to provide adequate and timely treatment, and also limits our understanding of the progression of pain in patients. Measuring pain using rating scales requires the patient to consciously focus on their pain, in opposition to any distraction strategy the patient may be employing. We feel it is urgent and necessarry to develop a way to measure pain that improves on the current situation.
+In a clinical environment, typically a nurse will ask a patient three times a day to rate their pain in this way. This is a poor indicator for the fluctuations in pain patients may experience, which makes it hard to provide adequate and timely treatment, and also limits our understanding of the progression of pain in patients. Measuring pain using rating scales requires the patient to consciously focus on their pain, which cancels any distraction strategy the patient may be employing. We feel it is urgent and necessary to develop a way to measure pain that improves on the current situation.
 
 
 ## What does it do?
