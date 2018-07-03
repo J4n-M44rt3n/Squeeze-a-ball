@@ -12,7 +12,7 @@ Our proposed solution for measuring pain, the Squeeze-a-ball, is a pressure sens
 
 ## License
 
-Hardware and software developed in this project are published under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/). We found inspiration for knitted stretch sensors at [Kobakant](http://www.kobakant.at/DIY/?p=3175), released under the [Free Cultural Works definition](https://freedomdefined.org/Definition).<BR>
+Hardware and software developed in this project are published under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/). We found inspiration for knitted stretch sensors at [Kobakant](http://www.kobakant.at/DIY/?p=3175), released under the [Free Cultural Works definition](https://freedomdefined.org/Definition).
 
 
 ## Product Category
@@ -63,13 +63,13 @@ etc...
 
 ## Credits
 
-In no particular order:<BR>
-Mireia Parets for graphic design and interface design<BR>
-Bugra Yildiz for software development<BR>
-Paulien Melis for knitting the actual sensors<BR>
-Winston Mendeszoon for sensor research<BR>
-Anna Pelgrim for interface design and user scenarios<BR>
-Jurre Ongering for coming up with the Name<BR>
-Emma Pareschi for help with electronics and sensors<BR>
-Jan-Maarten Luursema for owning the problem
+In no particular order, the following wonderful people helped by their lively discussions and specific contributions:<BR><BR>
+Mireia Parets worked on the graphic design and interface design<BR>
+Bugra Yildiz worked on the software<BR>
+Paulien Melis knitted the actual sensors<BR>
+Winston Mendeszoon researched sensors<BR>
+Anna Pelgrim worked on interface design and user scenarios<BR>
+Jurre Ongering came up with the Name<BR>
+Emma Pareschi helped with electronics and sensors<BR>
+Jan-Maarten Luursema owns the problem
 
