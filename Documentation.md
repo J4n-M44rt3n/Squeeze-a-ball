@@ -29,8 +29,8 @@ Squeeze-a-ball looks like a knitted anti-stress ball hooked up to a tablet compu
 
 ## What is it?
 
-Squeeze-a-ball aims to improve pain measurement in a clinical setting. Compared to current methods, pain measurement needs to be less intrusive, patient-initiated, and capable of real-time monitoring. Patients can squeeze the ball whenever they experience pain, and the amount of squeeze indicates their pain level. This force will be recorded and visualized in a tablet application, both real-time and as a pain diary. Building on this, Squeeze-a-ball can be used to improve the clinical reaction to pain, improve the scientific understanding of pain, and provide biofeedback-based distraction for the patient.
-<BR><img src="https://github.com/J4n-M44rt3n/pain-squeezer/blob/master/pain-sq.png" width="500" height="350" /><img src="https://github.com/J4n-M44rt3n/pain-squeezer/blob/master/pain-vrsq.jpg" width="500" height="350" />
+Squeeze-a-ball aims to improve pain measurement in a clinical setting. Compared to current methods, pain measurement needs to be less intrusive, patient-initiated, and capable of real-time monitoring. Patients can squeeze the ball whenever they experience pain, and the amount of squeeze indicates their pain level. This force will be recorded and visualized in a tablet application, both real-time and as a pain diary. Building on this, Squeeze-a-ball can be used to improve the clinical reaction to pain, improve the scientific understanding of pain, and provide biofeedback-based distraction for the patient.<BR>
+<img src="https://github.com/J4n-M44rt3n/pain-squeezer/blob/master/pain-sq.png" width="400" height="300" /><img src="https://github.com/J4n-M44rt3n/pain-squeezer/blob/master/pain-vrsq.jpg" width="500" height="300" />
 
 
 ## Why did you make it?
