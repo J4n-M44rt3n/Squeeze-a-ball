@@ -35,9 +35,9 @@ Squeeze-a-ball aims to improve pain measurement in a clinical setting. Compared 
 
 ## Why did you make it?
 
-Measuring pain is notoriously hard. Pain is a highly subjective experience which correlates poorly to trauma, pathological changes of the body, and physiological measures such as heart rate variability. On top of that, pain can be modulated by distraction, level of awareness, or social factors such as the presence of family or medical personnel. The most widely used method to measure pain is to ask patients to rate their pain, either on a scale from one to ten, or as a mark on a continuous, horizontal bar. 
+Measuring pain is notoriously hard. Pain is a highly subjective experience which correlates only moderately to trauma, pathological changes of the body, and physiological measures such as heart rate variability. On top of that, pain can be modulated by distraction, level of awareness, or social factors such as the presence of family or medical personnel. The most widely used method to measure pain is to ask patients to rate their pain, either on a scale from one to ten, or as a mark on a continuous, horizontal bar. 
 
-In a clinical environment, typically a nurse will ask a patient three times a day to rate their pain in this way. This is a poor indicator for the fluctuations in pain patients may experience, which makes it hard to provide adequate and timely treatment, and also limits our understanding of the progression of pain in patients. Measuring pain using rating scales requires the patient to consciously focus on their pain, which cancels any distraction strategy the patient may be employing. We feel it is urgent and necessary to develop a way to measure pain that improves on the current situation.
+In a clinical environment, typically a nurse will ask a patient three times a day to rate their pain in this way. This is a poor indicator for the fluctuations in pain patients may experience, which makes it hard to provide adequate and timely treatment, and also limits our understanding of the progression of pain in patients. Measuring pain using rating scales requires the patient to consciously focus on their pain, which cancels any distraction strategy the patient may be employing. Additionally, the presence of a nurse may bias the patient's response. We feel it is urgent and necessary to develop a way to measure pain that improves on the current situation.
 
 
 ## How do you make one?
@@ -52,11 +52,11 @@ Here we will describe what happened when we took the prototype into a clinical e
 
 ## Credits
 
-In no particular order, the following great people helped Squeeze-a-ball along by their lively discussions and specific contributions:<BR><BR>
-Mireia Parets worked on the graphic design and interface design<BR>
-Bugra Yildiz worked on the software<BR>
+In no particular order, the following great people helped Squeeze-a-ball along by lively discussions and specific contributions:<BR><BR>
+Mireia Parets worked on graphic design and interface design<BR>
+Bugra Yildiz worked on software design and programming<BR>
 Paulien Melis knitted the actual sensors<BR>
-Winston Mendeszoon researched sensors<BR>
+Winston Mendeszoon researched sensors and navigated Shenzen<BR>
 Anna Pelgrim worked on interface design and user scenarios<BR>
 Jurre Ongering came up with the Name<BR>
 Emma Pareschi helped with electronics and sensors<BR>
