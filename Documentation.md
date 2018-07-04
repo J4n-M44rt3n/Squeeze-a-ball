@@ -24,7 +24,7 @@ Hardware and software developed in this project are published under the [Creativ
 
 ## The project in two sentences
 
-Squeeze-a-ball looks like a knitted anti-stress ball hooked up to a tablet computer. It is a device that measures pain by how forceful patients squeeze it.
+Squeeze-a-ball is a knitted anti-stress ball hooked up to a tablet computer. It is a device that measures pain by how forceful you squeeze it.
 
 
 ## What is it?
